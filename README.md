@@ -1,5 +1,7 @@
 # Wissensgewinnung durch Verbindung von Kryptowährungsdaten mit korrespondierenden Nachrichten 
 
+**Contributors**: David Drost, Hendrik Sawade, Christopher Schröder und Tobias Wenzel
+
 **Description**: This project aims to generate knowledge about cryptocurrencies by mapping news onto exchange data. Hence the focus is on content aggregation, data integration and knowledge discovery. Moreover, a front displays the news articles, visualized the market data and shows a world map for breaking down information by geographical location.
 ## Overview ##
 
