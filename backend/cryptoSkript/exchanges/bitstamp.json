@@ -1,0 +1,39 @@
+{
+  "cryptoCurrencies":[
+    {
+      "description":{
+        "longName":"Bitcoin",
+        "shortName":"btc",
+        "wikiEnglish":"Bitcoin is a cryptocurrency and worldwide payment system.It is the first decentralized digital currency 2013 the system works without a central repository or single administrator. The network is peer-to-peer and transactions take place between users directly through the use of cryptography, without an intermediary. These transactions are verified by network nodes and recorded in a public distributed ledger called a blockchain. Bitcoin was invented by an unknown person or group of people under the name Satoshi Nakamoto and released as open-source software in 2009",
+        "wikiGerman":"Bitcoin (englisch sinngemäß für „digitale Münze“) ist eine digitale Währung, gleichzeitig auch der Name des weltweit verwendbaren dezentralen Buchungssystems sowie die vereinfachende Bezeichnung einer kryptografisch legitimierten Zuordnung von Arbeits- oder Rechenaufwand. Überweisungen werden von einem Zusammenschluss von Rechnern über das Internet mithilfe einer speziellen Peer-to-Peer-Anwendung abgewickelt, sodass anders als im herkömmlichen Bankverkehr keine zentrale Abwicklungsstelle benötigt wird. Eigentumsnachweise an Bitcoin können in einer persönlichen digitalen Brieftasche gespeichert werden. Der Umrechnungskurs von Bitcoin in andere Zahlungsmittel bestimmt sich durch Angebot und Nachfrage."
+      },
+      "exchange":"bitstamp",
+      "shortName":"btc",
+      "unit":"usd"
+    },
+    {
+      "description":{
+        "longName":"Ethereum",
+        "shortName":"eth",
+        "wikiEnglish":"Ethereum is an open-source, public, blockchain-based distributed computing platform featuring smart contract (scripting) functionality. It provides a decentralized Turing-complete virtual machine, the Ethereum Virtual Machine (EVM), which can execute scripts using an international network of public nodes. Ethereum also provides a cryptocurrency token called 'ether', which can be transferred between accounts and used to compensate participant nodes for computations performed. 'Gas', an internal transaction pricing mechanism, is used to mitigate spam and allocate resources on the network",
+        "wikiGerman":"Ethereum, kurz Ether ist ein verteiltes System im Bereich der Finanztechnologie, welches das Anlegen, Verwalten und Ausführen von dezentralen Programmen bzw. Kontrakten (Smart Contracts) in einer eigenen Blockchain anbietet. Es stellt damit einen Gegenentwurf zur klassischen Client-Server-Architektur dar. Ethereum verwendet die interne Kryptowährung Ether (abgekürzt mit ETH) als Zahlungsmittel für Transaktionsverarbeitungen, welche durch teilnehmende Computer abgewickelt werden. "
+      },
+      "exchange":"bitstamp",
+      "shortName":"eth",
+      "unit":"usd"
+    },
+    {
+      "description":{
+        "longName":"Litecoin",
+        "shortName":"ltc",
+        "wikiEnglish":"Litecoin (LTC) is a peer-to-peer cryptocurrency and open source software project released under the MIT/X11 license. Creation and transfer of coins is based on an open source cryptographic protocol and is not managed by any central authority. While inspired by, and in most regards technically nearly identical to Bitcoin (BTC), Litecoin has some minor technical differences compared to Bitcoin and other major cryptocurrencies. Litecoin also has almost zero payment cost.",
+        "wikiGerman":"Das Litecoin-System ist technisch beinahe identisch umgesetzt wie das Bitcoin-System. Die Erstellung und Übertragung von Litecoins basiert auf einem Open-Source-Verschlüsselungsprotokoll und wird somit nicht zentral gesteuert."
+      },
+      "exchange":"bitstamp",
+      "shortName":"ltc",
+      "unit":"usd"
+    }
+  ],
+  "exchangeName":"bitstamp",
+  "position":"LUX"
+}

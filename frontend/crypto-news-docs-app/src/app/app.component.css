@@ -1,0 +1,29 @@
+#top.navbar {
+  padding: 0 0 0 20px;
+}
+
+#top.navbar .nav .nav-item {
+  width : 90px;
+  text-align: center;
+}
+
+.navbar .nav .nav-item p {
+  margin: 3px 0 0 0;
+  font-weight: bold;
+}
+
+.nav-link.nav-link-active {
+  color: #fff;
+  background-color: #006687;
+  border-color: #005c7a;
+}
+
+/* bootstrap uses !important here */
+.nav-link.nav-link-active.text-light {
+  color: #fff !important;
+}
+
+.container + .container {
+
+  margin-top: 30px;
+}

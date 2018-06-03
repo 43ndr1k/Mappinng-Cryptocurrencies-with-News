@@ -1,0 +1,32 @@
+<div class="crypto-chart-container-wrapper">
+  <div class="crypto-chart-container">
+    <crypto-line-chart
+        [scheme]="colorScheme"
+        [results]="dataView"
+        [gradient]="gradient"
+        [xAxis]="showXAxis"
+        [yAxis]="showYAxis"
+        [legend]="showLegend"
+        [showXAxisLabel]="showXAxisLabel"
+        [showYAxisLabel]="showYAxisLabel"
+        [xAxisLabel]="xAxisLabel"
+        [yAxisLabel]="yAxisLabel"
+        [autoScale]="autoScale"
+        [xAxisTickFormatting]="xAxisTickFormatter"
+        [timeline]="true"
+        (select)="onSelect($event)"
+        [onUpdateDomain]="onUpdateDomain">
+        </crypto-line-chart>
+
+    <div class="options">
+      <header class="options-title">
+        <span class="legend-title-text">Options</span>
+      </header>
+      <div>
+        <ul class="options-body">
+          <li><input class="options-checkbox" type="checkbox" [(ngModel)]="useLogScale" (change)="onLogscaleChange()" /> <span class="options-text">Log scale</span></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>

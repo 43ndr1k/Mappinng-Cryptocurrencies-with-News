@@ -1,0 +1,32 @@
+.origin-link {
+  color: rgb(16, 38, 99);
+}
+
+.info {
+  font-size: 0.7rem;
+}
+
+.body {
+  display: inline-block;
+  color: #1f1f1f;
+  font-size: 0.7rem;
+  font-style: italic;
+  margin-top: 8px;
+}
+
+.body:before {
+  content: open-quote;
+}
+
+.body:after {
+  content: close-quote;
+}
+
+.keywords {
+  display: inline-block;
+  font-size: 0.8rem;
+}
+
+.keyword + .keyword {
+  margin-left: 4px;
+}

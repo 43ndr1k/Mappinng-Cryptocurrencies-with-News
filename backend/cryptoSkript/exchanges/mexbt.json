@@ -1,0 +1,17 @@
+{
+  "cryptoCurrencies":[
+    {
+      "description":{
+        "longName":"Bitcoin",
+        "shortName":"btc",
+        "wikiEnglish":"Bitcoin is a cryptocurrency and worldwide payment system.It is the first decentralized digital currency 2013 the system works without a central repository or single administrator. The network is peer-to-peer and transactions take place between users directly through the use of cryptography, without an intermediary. These transactions are verified by network nodes and recorded in a public distributed ledger called a blockchain. Bitcoin was invented by an unknown person or group of people under the name Satoshi Nakamoto and released as open-source software in 2009",
+        "wikiGerman":"Bitcoin (englisch sinngemäß für „digitale Münze“) ist eine digitale Währung, gleichzeitig auch der Name des weltweit verwendbaren dezentralen Buchungssystems sowie die vereinfachende Bezeichnung einer kryptografisch legitimierten Zuordnung von Arbeits- oder Rechenaufwand. Überweisungen werden von einem Zusammenschluss von Rechnern über das Internet mithilfe einer speziellen Peer-to-Peer-Anwendung abgewickelt, sodass anders als im herkömmlichen Bankverkehr keine zentrale Abwicklungsstelle benötigt wird. Eigentumsnachweise an Bitcoin können in einer persönlichen digitalen Brieftasche gespeichert werden. Der Umrechnungskurs von Bitcoin in andere Zahlungsmittel bestimmt sich durch Angebot und Nachfrage."
+      },
+      "exchange":"mexbt",
+      "shortName":"btc",
+      "unit":"usd"
+    }
+  ],
+  "exchangeName":"mexbt",
+  "position":"MEX"
+}

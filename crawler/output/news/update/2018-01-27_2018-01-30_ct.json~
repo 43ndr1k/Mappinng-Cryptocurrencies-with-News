@@ -1,0 +1,78 @@
+[
+,
+{
+  "body":"Disclaimer:  Cointelegraph sincerely apologizes for the misleading information about Cardano, EOS, and NEO that was stated in the previous version of the article. The current version represents the real facts and the initial author's point of view. ",
+  "cryptoCurrency":{
+    "currency":"BTC"
+  },
+  "date":"2018-01-29",
+  "metaInfo":{
+    "author":"Darryn Pollock",
+    "keywords":"bitcoin news, bitcoin adoption, cryptocurrencies",
+    "language":"english",
+    "pageTopic":"Bitcoin News"
+  },
+  "source":"https://cointelegraph.com/news/weiss-gets-digital-currency-ratings-horribly-wrong-bitcoin-merely-c-student",
+  "title":"Is Bitcoin Really a C+ Student?"
+},
+{
+  "body":" The cryptocurrency  market data is provided by the  HitBTC  exchange. Developed equity markets globally continued to outperform most cryptocurrencies last week, as they have since the start of the year. ",
+  "cryptoCurrency":{
+    "currency":"BTC"
+  },
+  "date":"2018-01-28",
+  "metaInfo":{
+    "author":"Vlad Smerkis",
+    "keywords":"bitcoin news, cryptocurrencies, ripple",
+    "language":"english",
+    "pageTopic":"Bitcoin News"
+  },
+  "source":"https://cointelegraph.com/news/equity-markets-vs-cryptocurrency-markets-weekly-performance-review",
+  "title":"Equity Markets vs. Cryptocurrency Markets: Weekly Performance Review"
+},
+{
+  "body":"Bitcoin has prided itself on not being moved by the normal market manipulators, such as global strife and  socioeconomic activities . However, there are times when it fluctuates for obscure reasons. ",
+  "cryptoCurrency":{
+    "currency":"BTC"
+  },
+  "date":"2018-01-28",
+  "metaInfo":{
+    "author":"Darryn Pollock",
+    "keywords":"bitcoin news, china, chinese new year",
+    "language":"english",
+    "pageTopic":"Bitcoin News"
+  },
+  "source":"https://cointelegraph.com/news/bitcoins-early-2018-woes-written-in-the-stars-and-moon",
+  "title":"Bitcoin’s Early 2018 Woes Written in the Stars and Moon?"
+},
+{
+  "body":"Another case of “cryptojacking” was detected on YouTube and resolved by Google over the course of this week,  Ars Technica reported  Friday, Jan. 26. According to the report, anonymous hackers have managed to run ads on YouTube that consumed the visitors’ CPU power and electricity in order to ",
+  "cryptoCurrency":{
+    "currency":"BTC"
+  },
+  "date":"2018-01-28",
+  "metaInfo":{
+    "author":"Helen Partz",
+    "keywords":"bitcoin news, mining, youtube",
+    "language":"english",
+    "pageTopic":"Bitcoin News"
+  },
+  "source":"https://cointelegraph.com/news/crypto-mining-malware-epidemic-55-of-businesses-affected-worldwide-including-youtube",
+  "title":"Crypto-Mining Malware Epidemic: 55% of Businesses Affected Worldwide, Including YouTube"
+},
+{
+  "body":" The cryptocurrency  market data is provided by the  HitBTC  exchange. Developed equity markets globally continued to outperform most cryptocurrencies last week, as they have since the start of the year. ",
+  "cryptoCurrency":{
+    "currency":"DSH"
+  },
+  "date":"2018-01-28",
+  "metaInfo":{
+    "author":"Vlad Smerkis",
+    "keywords":"bitcoin news, cryptocurrencies, ripple",
+    "language":"english",
+    "pageTopic":"Bitcoin News"
+  },
+  "source":"https://cointelegraph.com/news/equity-markets-vs-cryptocurrency-markets-weekly-performance-review",
+  "title":"Equity Markets vs. Cryptocurrency Markets: Weekly Performance Review"
+}
+]

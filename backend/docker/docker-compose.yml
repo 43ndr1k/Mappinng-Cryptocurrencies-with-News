@@ -1,0 +1,25 @@
+version: '2'
+services:
+    PostgreSQL:
+        container_name: crypto_news_docs_Postgres
+    #restart: always
+        image: postgres
+        ports:
+            - "127.0.0.1:5433:5432"
+        environment:
+            - DEBUG=false
+
+            - POSTGRES_USER=root
+            - POSTGRES_PASSWORD=root
+            - POSTGRES_DB=crypto_news_docs
+            
+            #- DB_TEMPLATE=
+
+            #- DB_EXTENSION=
+
+            #- REPLICATION_MODE=
+            #- REPLICATION_USER=
+            #- REPLICATION_PASS=
+            #- REPLICATION_SSLMODE=
+        volumes:
+            - /srv/docker/postgresql:/var/lib/postgresql

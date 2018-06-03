@@ -1,0 +1,36 @@
+<div class="row">
+    <div class="col-md-12">
+        <div class="card">
+            <div class="card-header">
+                News
+            </div>
+            <div *ngIf="noResults" class="card-body">
+                <i>No news entries found.</i>
+            </div>
+            <div *ngIf="!noResults" class="card-body card-body-news">
+                <nav>
+                  <ngb-pagination
+                    (pageChange)="onPageChange($event)"
+                    [collectionSize]="pagination.totalPages"
+                    [(page)]="page"
+                    [rotate]="true"
+                    [maxSize]="5"></ngb-pagination>
+                </nav>
+                <table class="table container-fluid">
+                    <tbody>
+                        <crypto-currency-news-item *ngFor="let item of news" [item]="item"></crypto-currency-news-item>
+                    </tbody>
+                </table>
+
+                <nav>
+                    <ngb-pagination
+                      (pageChange)="onPageChange($event)"
+                      [collectionSize]="pagination.totalPages"
+                      [(page)]="page"
+                      [rotate]="true"
+                      [maxSize]="5"></ngb-pagination>
+                </nav>
+            </div>
+        </div>
+    </div>
+</div>

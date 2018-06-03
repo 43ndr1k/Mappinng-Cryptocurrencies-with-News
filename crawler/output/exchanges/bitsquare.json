@@ -1,0 +1,17 @@
+{
+  "cryptoCurrencies":[
+    {
+      "description":{
+        "longName":"Bitcoin",
+        "shortName":"btc",
+        "wikiEnglish":"dummy",
+        "wikiGerman":"dummy"
+      },
+      "exchange":"bitsquare",
+      "shortName":"btc",
+      "unit":"usd"
+    }
+  ],
+  "exchangeName":"bitsquare",
+  "position":"USA"
+}

@@ -1,0 +1,11 @@
+__Bitte nutzen__:
+- timeseries/*.json
+- clean_2017.json (Crawl mit news von 2017 im korrekten Format)
+- clean_2017v2.json (mit body-feld)
+
+
+__Bitte nicht mehr nutzen__:
+- sofern noch vorhanden export.json (alte Struktur)
+- old_timeseries/*
+- bitcoin_2017_cointelegraph.json
+

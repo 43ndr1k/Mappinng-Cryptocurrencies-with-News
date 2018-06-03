@@ -1,0 +1,17 @@
+{
+  "cryptoCurrencies":[
+    {
+      "description":{
+        "longName":"Bitcoin",
+        "shortName":"btc",
+        "wikiEnglish":"Bitcoin is a cryptocurrency and worldwide payment system.",
+        "wikiGerman":"Bitcoin (englisch sinngemäß für „digitale Münze“) ist eine digitale Währung."
+      },
+      "exchange":"bitcoin.de",
+      "shortName":"btc",
+      "unit":"usd"
+    }
+  ],
+  "exchangeName":"bitcoin.de",
+  "position":"DEU"
+}

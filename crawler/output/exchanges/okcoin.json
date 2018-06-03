@@ -1,0 +1,28 @@
+{
+  "cryptoCurrencies":[
+    {
+      "description":{
+        "longName":"Bitcoin",
+        "shortName":"btc",
+        "wikiEnglish":"dummy",
+        "wikiGerman":"dummy"
+      },
+      "exchange":"okcoin",
+      "shortName":"btc",
+      "unit":"usd"
+    },
+    {
+      "description":{
+        "longName":"Litecoin",
+        "shortName":"ltc",
+        "wikiEnglish":"dummy",
+        "wikiGerman":"dummy"
+      },
+      "exchange":"okcoin",
+      "shortName":"ltc",
+      "unit":"usd"
+    }
+  ],
+  "exchangeName":"okcoin",
+  "position":"CHN"
+}

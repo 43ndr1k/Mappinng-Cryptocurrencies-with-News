@@ -1,0 +1,72 @@
+{
+  "cryptoCurrencies": [
+      {
+      "description": {
+        "longName": "Bitcoin",
+        "shortName": "btc",
+        "wikiEnglish": "englisch",
+        "wikiGerman": "deutsch"
+      },
+      "exchange": "kraken",
+      "shortName": "btc",
+      "unit": "usd"
+    },
+    {
+      "description": {
+        "longName": "Ethereum",
+        "shortName": "eth",
+        "wikiEnglish": "englisch",
+        "wikiGerman": "deutsch"
+      },
+      "exchange": "kraken",
+      "shortName": "eth",
+      "unit": "usd"
+    },
+    {
+      "description": {
+        "longName": "Litecoin",
+        "shortName": "ltc",
+        "wikiEnglish": "englisch",
+        "wikiGerman": "deutsch"
+      },
+      "exchange": "kraken",
+      "shortName": "ltc",
+      "unit": "usd"
+    },
+    {
+      "description": {
+        "longName": "Dash",
+        "shortName": "dsh",
+        "wikiEnglish": "englisch",
+        "wikiGerman": "deutsch"
+      },
+      "exchange": "kraken",
+      "shortName": "dsh",
+      "unit": "usd"
+    }, 
+    {
+      "description": {
+        "longName": "Monero",
+        "shortName": "xmr",
+        "wikiEnglish": "englisch",
+        "wikiGerman": "deutsch"
+      },
+      "exchange": "kraken",
+      "shortName": "xmr",
+      "unit": "usd"
+    },
+    {
+      "description": {
+        "longName": "Zcash",
+        "shortName": "zec",
+        "wikiEnglish": "englisch",
+        "wikiGerman": "deutsch"
+      },
+      "exchange": "kraken",
+      "shortName": "zec",
+      "unit": "usd"
+    }    
+  ],
+  "exchangeName": "kraken",
+  "position": "USA"
+}

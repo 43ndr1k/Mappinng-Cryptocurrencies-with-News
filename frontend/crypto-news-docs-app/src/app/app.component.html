@@ -1,0 +1,32 @@
+<div id="main-wrapper">
+
+  <nav id="top" class="navbar navbar-light bg-primary fixed-top">
+
+    <ul class="nav">
+      <li class="nav-item" data-toggle="tooltip" data-placement="right" title="News">
+        <a class="nav-link text-light" routerLink="/news" routerLinkActive="nav-link-active">
+          <i class="fa fa-3x fa-newspaper-o"></i><br>
+          <p class="label text-center">NEWS</p>
+        </a>
+
+
+      </li>
+      <li class="nav-item" data-toggle="tooltip" data-placement="right" title="World Map">
+        <a class="nav-link text-light" routerLink="/map" routerLinkActive="nav-link-active">
+          <i class="fa fa-3x fa-globe"></i><br>
+          <p class="label text-center">MAP</p>
+        </a>
+      </li>
+    </ul>
+  </nav>
+
+  <div id="main">
+    <div class="container-wrapper">
+
+      <router-outlet></router-outlet>
+
+      <!-- fixme -->
+      <p>&nbsp;</p>
+    </div>
+  </div>
+</div>

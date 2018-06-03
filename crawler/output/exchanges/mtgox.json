@@ -1,0 +1,17 @@
+{
+  "cryptoCurrencies":[
+    {
+      "description":{
+        "longName":"Bitcoin",
+        "shortName":"btc",
+        "wikiEnglish":"dummy",
+        "wikiGerman":"dummy"
+      },
+      "exchange":"mtgox",
+      "shortName":"btc",
+      "unit":"usd"
+    }
+  ],
+  "exchangeName":"mtgox",
+  "position":"JPN"
+}

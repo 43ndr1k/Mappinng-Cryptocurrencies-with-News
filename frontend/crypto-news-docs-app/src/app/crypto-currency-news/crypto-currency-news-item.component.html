@@ -1,0 +1,18 @@
+<tr class="row">
+  <td class="col-9"><a #anchor target="_blank" href="{{item.source}}">{{item.title}}</a><br>
+    <span class="info">
+      <span *ngIf="item.metaInfo.author">{{item.metaInfo.author}} - </span><a class="origin-link" href="{{origin}}" target="_blank">{{origin}}</a>
+    </span><br>
+    <span *ngIf="item.body && item.body.length > 0" class="body">
+      {{item.body}}
+    </span>
+  </td>
+  <td class="col-3">
+    {{item.date | date}}<br>
+
+    <span class="keywords">
+      <span class="keyword badge badge-pill badge-light" *ngFor="let keyword of keywords">{{keyword}}</span>
+    </span>
+  </td>
+</tr>
+

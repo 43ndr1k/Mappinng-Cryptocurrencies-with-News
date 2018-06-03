@@ -1,0 +1,18 @@
+<div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="card">
+          <div class="card-body">
+            <crypto-prices
+              [onUpdateDomain]="updateDomain"></crypto-prices>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <crypto-currency-news [startDate]="dateRange.startDate" [endDate]="dateRange.endDate"></crypto-currency-news>
+  </div>
+</div>

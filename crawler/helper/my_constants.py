@@ -1,0 +1,15 @@
+BITCOIN = "BTC"
+ETHEREUM = "ETH"
+RIPPLE = "XRP"
+DASH = "DSH"
+LITECOIN = "LTC"
+
+DATE_FORMAT = "%Y-%m-%d"
+WORD_NUMBER = 30
+CHARACTER_NUMBER = 200
+
+APOSTROPHES = [u"\u201c",u"\u201d",u"\u2019",u"\u2018"]
+
+# CRAWLER_BASE_FOLDER = "/home/tobias/mygits/crypto-news-docs/crawler/"
+# SCRAPY_BASE_FOLDER = CRAWLER_BASE_FOLDER + "/scrapy_crawler"
+# REQUEST_CRAWLER_BASE_FOLDER = CRAWLER_BASE_FOLDER + "/request_crawler"

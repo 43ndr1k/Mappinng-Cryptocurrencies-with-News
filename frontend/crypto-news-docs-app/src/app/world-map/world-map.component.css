@@ -1,0 +1,11 @@
+.world-map {
+  position: absolute;
+  right: 0;
+  top: 0;
+  height: 97%;
+  width: 100%;
+}
+
+.datamap {
+  display: inline-block;
+}

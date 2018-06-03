@@ -1,0 +1,61 @@
+{
+  "cryptoCurrencies":[
+    {
+      "description":{
+        "longName":"Bitcoin",
+        "shortName":"btc",
+        "wikiEnglish":"Bitcoin is a cryptocurrency and worldwide payment system.It is the first decentralized digital currency 2013 the system works without a central repository or single administrator. The network is peer-to-peer and transactions take place between users directly through the use of cryptography, without an intermediary. These transactions are verified by network nodes and recorded in a public distributed ledger called a blockchain. Bitcoin was invented by an unknown person or group of people under the name Satoshi Nakamoto and released as open-source software in 2009",
+        "wikiGerman":"Bitcoin (englisch sinngemäß für „digitale Münze“) ist eine digitale Währung, gleichzeitig auch der Name des weltweit verwendbaren dezentralen Buchungssystems sowie die vereinfachende Bezeichnung einer kryptografisch legitimierten Zuordnung von Arbeits- oder Rechenaufwand. Überweisungen werden von einem Zusammenschluss von Rechnern über das Internet mithilfe einer speziellen Peer-to-Peer-Anwendung abgewickelt, sodass anders als im herkömmlichen Bankverkehr keine zentrale Abwicklungsstelle benötigt wird. Eigentumsnachweise an Bitcoin können in einer persönlichen digitalen Brieftasche gespeichert werden. Der Umrechnungskurs von Bitcoin in andere Zahlungsmittel bestimmt sich durch Angebot und Nachfrage."
+      },
+      "exchange":"btce",
+      "shortName":"btc",
+      "unit":"usd"
+    },
+    {
+      "description":{
+        "longName":"Ethereum",
+        "shortName":"eth",
+        "wikiEnglish":"Ethereum is an open-source, public, blockchain-based distributed computing platform featuring smart contract (scripting) functionality. It provides a decentralized Turing-complete virtual machine, the Ethereum Virtual Machine (EVM), which can execute scripts using an international network of public nodes. Ethereum also provides a cryptocurrency token called 'ether', which can be transferred between accounts and used to compensate participant nodes for computations performed. 'Gas', an internal transaction pricing mechanism, is used to mitigate spam and allocate resources on the network",
+        "wikiGerman":"Ethereum, kurz Ether ist ein verteiltes System im Bereich der Finanztechnologie, welches das Anlegen, Verwalten und Ausführen von dezentralen Programmen bzw. Kontrakten (Smart Contracts) in einer eigenen Blockchain anbietet. Es stellt damit einen Gegenentwurf zur klassischen Client-Server-Architektur dar. Ethereum verwendet die interne Kryptowährung Ether (abgekürzt mit ETH) als Zahlungsmittel für Transaktionsverarbeitungen, welche durch teilnehmende Computer abgewickelt werden. "
+      },
+      "exchange":"btce",
+      "shortName":"eth",
+      "unit":"usd"
+    },
+    {
+      "description":{
+        "longName":"Litecoin",
+        "shortName":"ltc",
+        "wikiEnglish":"Litecoin (LTC) is a peer-to-peer cryptocurrency and open source software project released under the MIT/X11 license. Creation and transfer of coins is based on an open source cryptographic protocol and is not managed by any central authority. While inspired by, and in most regards technically nearly identical to Bitcoin (BTC), Litecoin has some minor technical differences compared to Bitcoin and other major cryptocurrencies. Litecoin also has almost zero payment cost.",
+        "wikiGerman":"Das Litecoin-System ist technisch beinahe identisch umgesetzt wie das Bitcoin-System. Die Erstellung und Übertragung von Litecoins basiert auf einem Open-Source-Verschlüsselungsprotokoll und wird somit nicht zentral gesteuert."
+      },
+      "exchange":"btce",
+      "shortName":"ltc",
+      "unit":"usd"
+    },
+    {
+      "description":{
+        "longName":"Dash",
+        "shortName":"dsh",
+        "wikiEnglish":"Dash (formerly known as Darkcoin and XCoin) is an open source peer-to-peer cryptocurrency that aims to be the most user-friendly and most on-chain-scalable cryptocurrency in the world. On top of Bitcoin's feature set, it currently offers instant transactions (InstantSend), private transactions (PrivateSend) and operates a self-governing and self-funding model that enables the Dash network to pay individuals and businesses to perform work that adds value to the network. Dash's decentralized governance and budgeting system makes it a decentralized autonomous organization (DAO)",
+        "wikiGerman":"Dash (für englisch Digital Cash, deutsch ‚digitales Geld‘), anfangs (2014–2015) auch unter der Bezeichnung XCoin oder Darkcoin, ist eine Open-Source-Peer-to-Peer-Kryptowährung, die vergleichbare Funktionalitäten wie Bitcoin, aber auch darüber hinausgehende bietet. Ein besonderes Augenmerk wird auf Datenschutz gelegt. So sind bei Dash im Gegensatz zu anderen Kryptowährungen Transaktionsinformationen nicht öffentlich, dies wird durch das System PrivateSend (vormals Darksend) ermöglicht. Dabei werden Transaktionen mit denen anderer Personen vermischt und damit verschleiert. Zehn Prozent der Mining-Einkünfte gehen in die „Schatzkammer“ (englisch treasury) um Entwicklungsarbeit, Community-Projekte und Marketing zu finanzieren. Als Proof-of-Work-Algorithmus kommt X11 zum Einsatz."
+      },
+      "exchange":"btce",
+      "shortName":"dsh",
+      "unit":"usd"
+    },
+    {
+      "description":{
+        "longName":"Zcash",
+        "shortName":"zec",
+        "wikiEnglish":"Zcash is a cryptocurrency that grew out of the Zerocoin project, aimed at improving anonymity for Bitcoin users. The Zerocoin protocol was initially improved and transformed into Zerocash, which thus yielded the Zcash cryptocurrency in 2016. The founder and CEO of Zcash is Zooko Wilcox-O'Hearn. Its founding team includes cryptographer Matthew D. Green from Johns Hopkins University. Roger Ver was one of Zcash's initial investors.",
+        "wikiGerman":""
+      },
+      "exchange":"btce",
+      "shortName":"zec",
+      "unit":"usd"
+    }
+  ],
+  "exchangeName":"btce",
+  "position":"RUS"
+}
